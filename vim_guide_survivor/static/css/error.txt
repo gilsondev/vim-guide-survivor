@@ -1,0 +1,4 @@
+A less error occured trying to build your bundle. Please paste the error below in an issue for us at http://github.com/twitter/bootsrap! thanks!
+
+
+{"type":"Parse","message":"Syntax Error on line 219","index":6515,"filename":"bootstrap.css","line":219,"column":53,"extract":["@btnPrimaryBackground: #5E5E5E;","@btnPrimaryBackgroundHighlight: darken(#5E5E5E, 12%);;",""]}
