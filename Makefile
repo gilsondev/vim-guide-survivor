@@ -10,10 +10,10 @@ test: deps clean
 setup: deps
 	@python manage.py syncdb
 	@python manage.py migrate
-	@python manage.py loaddata {{ project_name }}/fixtures/initial_data.json
+	@python manage.py loaddata vim_guide_survivor/fixtures/initial_data.json
 
 settings:
-	@test -e {{ project_name }}/settings_local.py || cp {{ project_name }}/settings_local.py{.example,}
+	@test -e vim_guide_survivor/settings_local.py || cp vim_guide_survivor/settings_local.py{.example,}
 
 run:
 	@python manage.py runserver 0.0.0.0:8000
