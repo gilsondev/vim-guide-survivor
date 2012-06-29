@@ -10,7 +10,7 @@ Projeto criado para agregar várias informações sobre o editor Vim, como:
 
 ## Contribuição
 
-Sua contribuição é bem vinda. Caso tenha sugestões ou críticas, pode registrar [aqui](https://github.com/gilsondev/vim-guide-survivor/issues)
+Sua contribuição é bem vinda. Caso tenha sugestões ou críticas, pode registrar [aqui](https://trello.com/board/vim-guide-survivor/4fedbbcfb74fb82a3f4f888b)
 
 
 Autor: Gilson Filho <contato@gilsondev.com>
